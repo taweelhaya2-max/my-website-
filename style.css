@@ -1,0 +1,15 @@
+body {
+    font-family: childos-arabic, canva-sans;
+    background-color: #fbf2f2;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #000000;
+}   font-size: 50px;
+
+p {
+    font-size: 35px;
+    color: #000000;
+}
